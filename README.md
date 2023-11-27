@@ -2,4 +2,4 @@
 
 My name is Sergei and I'm Junior Frontend developer. 
 
-Please check out my CV via [https://javapepper.github.io/rsschool-cv/cv](https://javapepper.github.io/rsschool-cv/cv)
+Please check out my CV via [https://javapepper.github.io/rsschool-cv/](https://javapepper.github.io/rsschool-cv/)
